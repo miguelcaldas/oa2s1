@@ -1,0 +1,19 @@
+{
+  "name": "oa2s1",
+  "version": "0.1.0",
+  "description": "OAuth2 Server using npm package oauth2-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelcaldas/oa2s1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelcaldas/oa2s1/issues"
+  },
+  "homepage": "https://github.com/miguelcaldas/oa2s1#readme"
+}
